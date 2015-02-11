@@ -8,7 +8,7 @@ public class smallestMultiple {
 				}
 				
 			}
-					System.out.println(sum);
+					System.out.println("The multiple is " + Long.toString(sum));
 	}
 	
 }
